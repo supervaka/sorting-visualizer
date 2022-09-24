@@ -1,6 +1,6 @@
 Sorting visualizer for Merge Sort, Quick Sort, Heap Sort, and Insertion Sort.
 
-Deployed [here](https://supervaka.github.io/BuiltSortingVisualizer/)
+Deployed [here](https://supervaka.github.io/BuiltSortingVisualizer/).
 
 This project was inspired by Clement Mihailescu.
 
